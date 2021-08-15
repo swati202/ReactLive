@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ReactLive/static/css/main.8b9d6812.chunk.css",
-    "main.js": "/ReactLive/static/js/main.8867bcb0.chunk.js",
-    "main.js.map": "/ReactLive/static/js/main.8867bcb0.chunk.js.map",
-    "runtime-main.js": "/ReactLive/static/js/runtime-main.268724e1.js",
-    "runtime-main.js.map": "/ReactLive/static/js/runtime-main.268724e1.js.map",
-    "static/js/2.62b43057.chunk.js": "/ReactLive/static/js/2.62b43057.chunk.js",
-    "static/js/2.62b43057.chunk.js.map": "/ReactLive/static/js/2.62b43057.chunk.js.map",
-    "index.html": "/ReactLive/index.html",
-    "static/css/main.8b9d6812.chunk.css.map": "/ReactLive/static/css/main.8b9d6812.chunk.css.map",
-    "static/js/2.62b43057.chunk.js.LICENSE.txt": "/ReactLive/static/js/2.62b43057.chunk.js.LICENSE.txt"
+    "main.css": "/reactlive/static/css/main.8b9d6812.chunk.css",
+    "main.js": "/reactlive/static/js/main.8867bcb0.chunk.js",
+    "main.js.map": "/reactlive/static/js/main.8867bcb0.chunk.js.map",
+    "runtime-main.js": "/reactlive/static/js/runtime-main.ca804d9a.js",
+    "runtime-main.js.map": "/reactlive/static/js/runtime-main.ca804d9a.js.map",
+    "static/js/2.62b43057.chunk.js": "/reactlive/static/js/2.62b43057.chunk.js",
+    "static/js/2.62b43057.chunk.js.map": "/reactlive/static/js/2.62b43057.chunk.js.map",
+    "index.html": "/reactlive/index.html",
+    "static/css/main.8b9d6812.chunk.css.map": "/reactlive/static/css/main.8b9d6812.chunk.css.map",
+    "static/js/2.62b43057.chunk.js.LICENSE.txt": "/reactlive/static/js/2.62b43057.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.268724e1.js",
+    "static/js/runtime-main.ca804d9a.js",
     "static/js/2.62b43057.chunk.js",
     "static/css/main.8b9d6812.chunk.css",
     "static/js/main.8867bcb0.chunk.js"
